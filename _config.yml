@@ -1,0 +1,13 @@
+title: "Business Spike"
+description: "منصة متخصصة لنشر مقالات دراسات الجدوى والاستثمار وريادة الأعمال"
+url: "https://hadeermarketing1-wq.github.io"
+baseurl: "/feasibility-study-blog"
+
+theme: minima
+lang: ar
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:categories/:title/
